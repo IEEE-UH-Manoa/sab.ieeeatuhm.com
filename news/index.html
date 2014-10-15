@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -52,12 +54,14 @@
 
       <hr>
 
-      <h3>New Website <small>April 14, 2013</small> </h3>
-          <p>
-              The SAB is proud to premiere our new webpage! We hope that 
-              it will help to facilitate our goals by acting as an information 
-              reservior for electrical engineering students. 
-          </p>
+          {% for post in site.posts limit 4%}   
+              <h3>
+                <!-- <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><small> {{ post.date | date: "%b %-d, %Y" }} </small> -->
+                {{ post.title }}</a><small> {{ post.date | date: "%b %-d, %Y" }}
+              </h3>
+               {{ post.content | strip_html | truncatewords:75}}
+          {% endfor %}
+        
       <h3>Historical News </h3>
         <p>
         The 2001 SAB was extremely effective in invoking change within the 
