@@ -13,6 +13,7 @@
         3. Able to take advantage of the most recent up-to date tools to create
             NEW content from those things (standing on the shoulders of giants)
         4. Let the students take care of the learning themselves
+    5. More information can be found [here:] (../assets/docs/a-case-for-supporting-language-agnostic-thinking.markdown)
 
 2. Example would be to ask professors to mention it in the class
 3.	Dr. Iskander in EE471 Electromagnetic Computation Course is a perfect example. Dr. Iskander doesn’t mind the students using other languages to get the simulation done.
