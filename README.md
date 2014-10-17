@@ -1,7 +1,7 @@
 eesab-website
 =============
 
-This repostiory is the main website for the UH Manoa Electrical Engineering Student Advisory Board (SAB). 
+This repository is the main website for the UH Manoa Electrical Engineering Student Advisory Board (SAB). 
 Goals of this website include:
 
   * Make the operation of the EE SAB and EE Department as transparent to students as possible
