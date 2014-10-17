@@ -2,12 +2,12 @@
 
       <div class="masthead">
         <ul class="nav nav-pills pull-right">
-          <li><a href="../">Home</a></li>
-          <li class="active"><a href="../news">News</a></li>
-          <li><a href="../about">About</a></li>
-          <li><a href="../contact/">Contact</a></li>
-          <li><a href="../officers/">Officers</a></li>
-          <li><a href="../archive/">Archive</a></li>
+          {% if page.section == "home" %}<li class="active">{% else %}<li>{% endif %}<a href="../">Home</a></li>
+          {% if page.section == "news" %}<li class="active">{% else %}<li>{% endif %}<a href="../news">News</a></li>
+          {% if page.section == "about" %}<li class="active">{% else %}<li>{% endif %}<a href="../about">About</a></li>
+          {% if page.section == "contact" %}<li class="active">{% else %}<li>{% endif %}<a href="../contact/">Contact</a></li>
+          {% if page.section == "officers" %}<li class="active">{% else %}<li>{% endif %}<a href="../officers/">Officers</a></li>
+          {% if page.section == "archive" %}<li class="active">{% else %}<li>{% endif %}<a href="../archive/">Archive</a></li>
         </ul>
         <h4 class="muted">Electrical Engineering <br />Student Advisory Board<br /></h4>
       </div>
