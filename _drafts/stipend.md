@@ -1,7 +1,7 @@
 ## Dear Dean Crouch:
 
 
-Recently an article was published in the Ka Leo regarding a policy that concerns students receiving stipends and financial aid.
+On October 3rd, [an article was published in the Ka Leo](http://www.kaleo.org/news/students-lose-stipends-to-financial-aid/article_d2127484-49bb-11e4-806c-001a4bcf6878.html?mode=print) regarding a policy that concerns students receiving stipends and financial aid.
 Specifically, the article stated that the Office of Financial Aid will be counting stipends received for "voluntary" work, performed by students for the school, as part of their pre-existing financial resources. Furthermore, according to the article, the Office indicated that they would be demanding that a sum equal to the amount of a paid stipend be returned to them in kind, since they view it as a reduction of the student's estimated financial need.
 
 We the Electrical Engineering Student Advisory Board believe this policy is unjust for the following reasons:
