@@ -17,7 +17,7 @@ Thank you for your time. We look forward to hearing from you on this issue.
 
 ## Student Advisory Board
 
-- , Chair
+- Kaleo Norman, Chair
 - Bronson Edralin, Vice-Chair
 - , Secretary
 - Joseph Phillip Felix Jr, Webmaster
