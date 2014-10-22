@@ -20,7 +20,7 @@ Thank you for your time. We look forward to hearing from you on this issue.
 - , Chair
 - Bronson Edralin, Vice-Chair
 - , Secretary
-- , Webmaster
+- Joseph Phillip Felix Jr, Webmaster
 - Christian Josh Bragado Liwanag, Student Fee Representative
 - Kenny Luong, IEEE Student Branch Chair 
 - , Board Member
