@@ -23,7 +23,7 @@ Thank you for your time. We look forward to hearing from you on this issue.
 - Joseph Phillip Felix Jr, Webmaster
 - Christian Josh Bragado Liwanag, Student Fee Representative
 - Kenny Luong, IEEE Student Branch Chair 
-- , Board Member
+- Trevor Alexander, Board Member
 - , Board Member
 - , Board Member
 - , Board Member
