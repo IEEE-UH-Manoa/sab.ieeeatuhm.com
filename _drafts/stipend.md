@@ -22,7 +22,7 @@ Thank you for your time. We look forward to hearing from you on this issue.
 - , Secretary
 - , Webmaster
 - Christian Josh Bragado Liwanag, Student Fee Representative
-- , Board Member
+- Kenny Luong, IEEE Student Branch Chair 
 - , Board Member
 - , Board Member
 - , Board Member
