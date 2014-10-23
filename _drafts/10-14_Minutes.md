@@ -20,14 +20,14 @@
 
 # Attendees<a id="sec-1" name="sec-1"></a>
 
--   Kaleo
--   Bronson
--   Christian
--   Felix
--   Trevor
--   Kenny
--   Zach
--   Jared
+-   Kaleo Norman, Chair
+-   Bronson Edralin, Vice-Chair
+-   Christian Liwanag, Student Fees Representative
+-   Joseph Felix, Webmaster
+-   Trevor Alexander, Board Member
+-   Kenny Luong, IEEE Chair/Board Member
+-   Zach Dorman, Board Member
+-   Jared Shimabukuro, Secretary
 
 # IAB Presentation<a id="sec-2" name="sec-2"></a>
 
@@ -63,7 +63,7 @@
 
 # Website<a id="sec-6" name="sec-6"></a>
 
--   Switched to Jeckyll
+-   Switched to Jekyll
     -   Makes it easy to update
     -   accessible via github
     -   markdown versions of minutes easily transferrable to website
@@ -80,7 +80,7 @@
 
 # Feedback<a id="sec-7" name="sec-7"></a>
 
--   Replies should be more often
+-   Replies should be more frequent
 
 # Future Discussions<a id="sec-8" name="sec-8"></a>
 
