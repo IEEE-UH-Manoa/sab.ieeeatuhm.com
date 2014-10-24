@@ -16,7 +16,7 @@
     5. More information can be found [here:] (../assets/docs/a-case-for-supporting-language-agnostic-thinking.markdown)
 
 2. Example would be to ask professors to mention it in the class
-3.	Dr. Iskander in EE471 Electromagnetic Computation Course is a perfect example. Dr. Iskander doesn’t mind the students using other languages to get the simulation done.
+.	Dr. Iskander in EE471 Electromagnetic Computation Course is a perfect example. Dr. Iskander doesn’t mind the students using other languages to get the simulation done.
 4.	Benefits of getting an officer position to get a job
   1.	Roles of an officer position
   2.	Say how you are doing and how great
@@ -26,3 +26,5 @@
 7.	Spectrum Analyzer for EE343
 8.	Create and Maintain Transparency with IAB, SAB, EE Dept
   1.	Keep comments confidential
+
+* Clean up minutes.
