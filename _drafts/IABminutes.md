@@ -28,3 +28,8 @@
   1.	Keep comments confidential
 
 * Clean up minutes.
+
+-
+Add into the minutes:
+* IAB brought up the concern for meeting the expectations for ABET and a possible solution is to have the ENGR 100 class fulfill most of the "soft" requirements by requiring all College of Engineering students to take this class.  Adding this class would be replacing the saved credits from the newly renamed CHEM 171/171L taught by former Chancellor Apple because it is a one semester class that combines CHEM 161/161L and CHEM 162.
+
