@@ -41,7 +41,7 @@
   - FY 2013 841.1 million
   - Decrease of roughly $61 million in general funds
   - Notable differences
-	- taxpayer 35% vs 25%
+	- taxpayer 35% vs 25% (what is this refering to?)
 
 #### Amount of general funds has been going down, but the amount of tuition has gone up
 * The decline in G-funds is a lot steeper than the tuition curve
@@ -67,5 +67,6 @@
 * "Money was lost between gross tuition and net tuition, where did that money go?"
 * "Who is in control of the University?"
 * "Why should people come to University of Hawai’i at Manoa?"
-#### Announcement of a Speaker in POST 723 on next week Wednesday at 1:00 PM.
+
+#### Announcement of a Speaker in POST 723 on next week Wednesday at 1:00 PM. (Anyone remember the name of the speaker?)
 
