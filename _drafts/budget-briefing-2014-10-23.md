@@ -40,11 +40,10 @@
   - FY 2009 Total: $760.3 million
   - FY 2013 841.1 million
   - Decrease of roughly $61 million in general funds
-  - Notable differences
-	- taxpayer 35% vs 25% (what is this refering to?)
+  	- Notable difference between appropriations used to provide 35% of funds compared to the 25% now
 
-#### Amount of general funds has been going down, but the amount of tuition has gone up
-* The decline in G-funds is a lot steeper than the tuition curve
+#### Amount of general funds and the amount of tuition has gone up at a non-relative rate to each other
+* The decline in general funds provided by the state government is a lot steeper than the tuition curve
 * Resulting  in a deficit Enrollment increases this year but the General fund is not increasing
 * Tuition is not being distributed properly to Manoa
   - CE and ME had big increase in enrollment but no increase in funds
@@ -62,11 +61,13 @@
 * "Professions Fees for College of Nursing is $1000 and College of Engineering is $500 but isn’t engineering worth more to the community?"
   - There is  focus in fixing tuition prices before anything happens to the Professions Fees 
 * The reason people should come to UH Manoa is because a student will get more for their money
+* The Vice Chancellor, Kathy Cutshaw will be presenting the situation more in detail to the CoE Faculty and staff in POST 723 on 29-10-2014 at 1:00 PM.
+
 #### Questions brought up by attendees
 * "What is the difference between the General funds and Tuition?"
 * "Money was lost between gross tuition and net tuition, where did that money go?"
 * "Who is in control of the University?"
 * "Why should people come to University of Hawai’i at Manoa?"
 
-#### Announcement of a Speaker in POST 723 on next week Wednesday at 1:00 PM. (Anyone remember the name of the speaker?)
+
 
