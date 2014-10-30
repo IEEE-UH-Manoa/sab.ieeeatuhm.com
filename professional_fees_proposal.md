@@ -6,40 +6,55 @@
 
 * Quantity: 1
 * Total Price: Estimated $5000
-* Justification: Help students with their projects involving PCB by reducing chances of burning their PCB and adding excess soder.
+* Justification: 
 * Estimated number of Students: 20
 
-### Breadboards for Instructional
-
-* Quantity: 20
-* Total Price: Estimated $1000
-* Justification: Replace old Breadboards with poor connectivity 
-* Estimated number of Students: +80
 	
-### Improvements to Holmes Hall EE Servers
+### Soldering Irons
 
-* Quantity: NaN
+* Quantity: 4
 * Total Price: NaN
 * Justifications:
 * Estimated number of Students:
 
-### Resistor Kits
+### Lab Supplies consisting of resistors, inductors, power supplies, etc.  
+
+* Quantity: 20
+* Total Price: Estimated $1000
+* Justification: 
+* Estimated number of Students: ~50
+
+### Chairs
 	
-* Quantity: 5
-* Total Price: $40
+* Quantity: 10
+* Total Price: 
 * Justifications: 
-* Estimated number of Students: +80
+* Estimated number of Students: 
 
-### Banana Cables
+### Anti-static Lab Bench
 	
-* Quantity: 20
-* Total Price: $220
-* Justifications: Add more cables for students to use and replace old ones
-* Estimated number of Students: +80
+* Quantity: 1
+* Total Price: 
+* Justifications: 
+* Estimated number of Students: 
 
-### Alligator Clips w/Banana Cables 
+### Computers 
 	
-* Quantity: 20
-* Total Price: $240
-* Justification: Replace old and add more cables to meet the growing enrollment into Instuctional classes
-* Estimted number of Students: +80
+* Quantity: 2
+* Total Price: 
+* Justification: 
+* Estimted number of Students: 
+
+### Anti-static mats
+
+* Quantity: 3
+* Total Price: 
+* Justification: 
+* Estimted number of Students: 
+
+### DIY Kits consisting of Arduinos & Shields, Raspberry Pi, XBee
+
+* Quantity: 3
+* Total Price: 
+* Justification: 
+* Estimted number of Students: 
