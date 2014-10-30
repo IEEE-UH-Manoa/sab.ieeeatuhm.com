@@ -1,3 +1,10 @@
+---
+layout: minutes
+title:  October 23rd, 2014 Minutes
+date:   2014-10-23
+categories: minutes
+---
+
 # SAB Budget Meeting
 ## Wednesday October 22, 2014 5:05 PM
 
