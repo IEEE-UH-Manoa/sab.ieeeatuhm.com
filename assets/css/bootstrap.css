@@ -42,6 +42,22 @@
           box-sizing: border-box;
 }
 
+form {
+	max-width: 450px;
+	margin:  0 auto 50px;
+}
+label {
+	display:  block;
+	margin-bottom: 20px;
+}
+span {
+	display:  block;
+}
+textarea {
+	border: 2px solid aqua;
+	width: 100%;
+}
+
 article,
 aside,
 details,
