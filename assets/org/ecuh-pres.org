@@ -1,0 +1,76 @@
+#+LAST_MOBILE_CHANGE: 2014-10-01 16:40:07
+#+TITLE: ECUH Info Session
+#+DATE: 2014-11-03
+#+AUTHOR: UH Electrical Engineering Student Advisory Board
+#+EMAIL: uh-manoa-ee-sab-grp@hawaii.edu
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:t p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:1 todo:t |:t
+#+CREATOR: Emacs 24.3.1 (Org mode 8.2.7c)
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+REVEAL_THEME: night
+#+REVEAL_TRANS: fade
+#+REVEAL_MATHJAX: true
+# OPTIONS: org-reveal-mathjax:t
+# OPTIONS: reveal_controls:nil
+
+* What is the SAB?
+
+epic superheroes in search of a story
+
+** How we got started
+
+kryptonite dirty bomb backfired and produced ethical students (who knew)
+
+** Our commitment to student body
+
+rock hard, take names
+
+* Great things we've done
+
+** Thing 1
+
+national bobsled competition
+
+** Thing 2
+
+epic godzilla fight team
+
+** Thing 3
+
+chess match with evil AI
+
+* Things we offer future members
+
+** Thing 1
+
+limousine
+
+** Thing 2
+
+cocaine
+
+** Thing 3
+
+swagggggggggggggggggg
+
+* Current Goals
+
+- bulleted list
+- guns don't kill people
+- bullets kill people
+
+
+1. a numbered list
+2. has a sequence
+3. ponies
+
+* Contact Us
+
+- website:
+- email:
