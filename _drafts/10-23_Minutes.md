@@ -104,11 +104,11 @@
 # Action Items<a id="sec-10" name="sec-10"></a>
 
 -   [ ] Look through IAB minutes in the next meeting
--   [ ] Christian to put the list on Github
--   [ ] Kaleo to email the SAB to create a Github account
+-   [X] Christian to put the list on Github
+-   [X] Kaleo to email the SAB to create a Github account
 -   [ ] Ken to make fliers for ECUH meeting
 -   [ ] Trevor to make slides for ECUH meeting
--   [ ] Colene and Kenny to finalize the EE315 book plan with IEEE
+-   [X] Colene and Kenny to finalize the EE315 book plan with IEEE
 
 # Meeting Adjourned<a id="sec-11" name="sec-11"></a>
 
