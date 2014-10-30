@@ -1,0 +1,21 @@
+---
+layout: default
+section: minutes
+---
+
+      <hr>
+      <div class="jumbotron">
+        <h2>Minutes</h2>
+        <p>
+        Previous passed minutes from the Electrical Engineer Student Advisory Board.
+        </p>
+      </div>
+
+      <hr>
+
+          {% for post in site.posts limit 4%}   
+              <h3>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><small> {{ post.date | date: "%b %-d, %Y" }} </small>
+              </h3>
+               {{ post.content | truncatewords:75}}
+          {% endfor %}
