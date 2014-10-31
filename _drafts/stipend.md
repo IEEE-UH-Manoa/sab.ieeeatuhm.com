@@ -25,5 +25,3 @@ Thank you for your time. We look forward to hearing from you on this issue.
 - Kenny Luong, IEEE Student Branch Chair 
 - Trevor Alexander, Board Member
 - Colene Pekelo, Board Member
-- , Board Member
-- , Board Member
