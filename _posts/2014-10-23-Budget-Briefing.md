@@ -1,6 +1,6 @@
 ---
 layout: minutes
-title:  October 23rd, 2014 Minutes
+title:  October 23rd, 2014 Budget Briefing
 date:   2014-10-23
 categories: minutes
 ---
