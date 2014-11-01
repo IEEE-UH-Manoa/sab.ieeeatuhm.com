@@ -1,7 +1,7 @@
 # Student Proposal for Professional Fee Spending in FY 2015
 
 ## New items requested by students
-Prices and quantities below are estimates.
+Prices and quantities below are estimates of the items the SAB wishes for Professional Fees to be spent on. Generally, all the items requested are for supplying the new project room with new items.
 
 ### Reflow Oven in the Project Room
 A reflow oven is a machine used primarily for reflow soldering of surface mount electronic components to printed circuit boards (PCB).
