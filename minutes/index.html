@@ -13,7 +13,7 @@ section: minutes
 
       <hr>
 
-          {% for post in site.pages %}
+          {% for post in site.posts %}
           	{% if post.categories contains "minutes" %} 
               <h3>
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><small> {{ post.date | date: "%b %-d, %Y" }} </small>
