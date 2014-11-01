@@ -1,3 +1,9 @@
+---
+layout: post
+title:  SAB Stipend Letter to the Dean
+date:   2014-10-31
+categories: news
+---
 ## Dear Dean Crouch:
 
 
