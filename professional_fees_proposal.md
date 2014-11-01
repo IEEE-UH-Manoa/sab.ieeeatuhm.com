@@ -27,8 +27,8 @@ Components used in constructing basic circuits and testing basic EE principles.
 * Justification: To supply the project room in Holmes Hall 450 with equipment to recreate instructional lab assignments or construct test circuits.
 * Estimated number of students impacted: ~50
 
-### Office Chairs
-Ergonomic furniture for student use.
+### Chairs
+Ergonomic furniture consisting of 6 office chairs and 4 lab bench chairs
 
 * Quantity: 10
 * Total Price: $1500 
