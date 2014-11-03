@@ -48,7 +48,7 @@ Desktop computers with included monitors
 	
 * Quantity: 2
 * Total Price: $1200
-* Justification: To provide computers connected to the EE network that undergraduates can use to have access to project software found on the network in the Holms Hall 450 Project Room.
+* Justification: To provide computers connected to the EE network that undergraduates can use to have access to project software found on the network in the Holmes Hall 450 Project Room.
 * Estimated number of students impacted: ~30 
 
 ### Anti-static Mats in the Project Room
@@ -64,5 +64,5 @@ A kit consisting of components used by students to test popular embedded hardwar
 
 * Quantity: 3
 * Total Price: $1000
-* Justification: To give students access to open-source electronics platforms to experiment with in tests for their projects in Holms Hall 450 Project Room.
+* Justification: To give students access to open-source electronics platforms to experiment with in tests for their projects in the Holmes Hall 450 Project Room.
 * Estimated number of students impacted: ~20
