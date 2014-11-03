@@ -2,8 +2,8 @@
 title: UH Electrical Engineering Student Advisory Board
 email: uheesab@gmail.com
 
-baseurl: ""
-url: "http://www-ee.eng.hawaii.edu/~eesab/" # the base hostname & protocol for your site
+baseurl: "/~eesab/"
+url: "http://www-ee.eng.hawaii.edu/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
