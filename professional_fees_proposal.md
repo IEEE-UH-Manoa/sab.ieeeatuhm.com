@@ -6,10 +6,15 @@
 - Bronson Edralin, Vice-Chair
 - Christian Liwanag, SAB Fees Representative
 - Felix Joseph, Webmaster
+- Jared	Shimabukuro, Secretary
 - Colene Pekelo, Board
 - Trevor Alexander, Board
 - Andy Pham, Board
 - Kenny Luong, Board
+- Zachary Dorman, Board
+- Michelle Masutani, Board
+- Ken Uchida, Board
+- Harley Cumming, Board
 
 -----
 
