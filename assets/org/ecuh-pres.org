@@ -21,7 +21,8 @@
 
 * What is the SAB?
 
-epic superheroes in search of a story
+- A student run committee created to fairly represent the electrical engineering student body
+
 
 ** How we got started
 
@@ -33,23 +34,23 @@ rock hard, take names
 
 * Great things we've done
 
-** Thing 1
+** Custom EE Tracks
 
-national bobsled competition
+Electrical Enginering students are now allowed to create and propose custom cirriculumn tracks. 
 
-** Thing 2
+** CE270 and ME311 No Longer Required 
 
-epic godzilla fight team
+Those are no longer required for EE students. 
 
-** Thing 3
+** Student Project Laboratory
 
-chess match with evil AI
+For the first time, electrical engineering students will have access to a dedicated student project lab.
 
 * Things we offer future members
 
-** Thing 1
+** Leadership
 
-limousine
+By getting involved, students can practice their leadership skills
 
 ** Thing 2
 
@@ -72,5 +73,5 @@ swagggggggggggggggggg
 
 * Contact Us
 
-- website:
-- email:
+- website: http://www-ee.eng.hawaii.edu/~eesab/
+- email: uheesab@gmail.com
