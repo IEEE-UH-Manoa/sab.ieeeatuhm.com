@@ -21,8 +21,9 @@
 
 * What is the SAB?
 
-- A student run committee created to represent the electrical engineering student body
-
+- An independent and fully student run committee 
+- Represents the electrical engineering student body
+- Supported by IEEE Student Branch at UH Manoa
 
 ** How we got started
 
@@ -33,46 +34,52 @@
 
 ** Our commitment to student body
 
-rock hard, take names
+- We represent the needs and concerns of the EE student body
+- We provide a safe venue for students to bring up concerns and comments
+- We strive to make sure that EE students are receiving the most up to date education
 
 * Great things we've done
 
 ** Introduction of Custom EE Tracks
 
-Electrical Enginering students are now allowed to create and propose custom cirriculumn tracks. 
+- Electrical Enginering students are now allowed to create and propose custom cirriculumn tracks. 
+- This gives students 
 
 ** CE270 and ME311 No Longer Required 
 
-Those are no longer required for EE students. 
+- Initially brought up in 2001 by the first SAB committee
+- CE270 and ME311 are longer required for EE students. 
 
-** Student Project Lab (Holmes Hall 450
+** Student Project Lab (Holmes Hall 450)
 
-For the first time, electrical engineering students will have access to a dedicated student project lab.
+- Proposed by the 2013-2014 EE SAB
+- For the first time, electrical engineering students will have access to a dedicated student project lab.
+- Holmes Hall 450 is now open for student signups
 
 * Things we offer future members
 
 ** Leadership
 
-By getting involved, students can practice their leadership skills
+- Practice leadership skills
+- Address a specific a student concern
+- Help drive some new changes 
 
-** Thing 2
+** Community Involvement
 
-cocaine
+- Help to maintain our community
+- Created by students, for students
 
-** Thing 3
+** Resume Building
 
-swagggggggggggggggggg
+- Can define exactly what you contributed and how that affected students`
+- Shows employers initiative and involvement
+- An engineering related extra-cirricular activity
 
 * Current Goals
 
-- bulleted list
-- guns don't kill people
-- bullets kill people
-
-
-1. a numbered list
-2. has a sequence
-3. ponies
+- Improve our current website to be more transparent 
+- Promote the EE SAB and let students know they have a venue for concerns
+- Become a fully self-sustaining committee to continue to support students
 
 * Contact Us
 
