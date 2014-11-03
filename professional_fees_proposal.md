@@ -13,11 +13,12 @@
 
 -----
 
-## New items requested by The Students Advisory Board
+## New items requested by The Student Advisory Board
 Prices and quantities below are estimates of the items the SAB wishes for Professional Fees to be spent on. All the items requested are for supplying the new project room with new items.
 
 ### Reflow Oven in the Project Room
-A reflow oven is a machine used primarily for reflow soldering of surface mount electronic components to printed circuit boards (PCB).
+
+Description: A reflow oven is a machine used primarily for reflow soldering of surface mount electronic components to printed circuit boards (PCB).
 
 * Quantity: 1
 * Total Price: $5000
@@ -25,15 +26,17 @@ A reflow oven is a machine used primarily for reflow soldering of surface mount 
 * Estimated number of students impacted: >20
 	
 ### Soldering Irons in the Project Room
-A soldering iron is a hand tool used to supply heat to melt solder so that it can flow into the joint between two work pieces.
+
+Description: A soldering iron is a hand tool used to supply heat to melt solder so that it can flow into the joint between two work pieces.
 
 * Quantity: 4
 * Total Price: $500
 * Justification: To supply the project room in Holmes Hall 450 with soldering irons for undergraduate project use.
 * Estimated number of students impacted: ~30
 
-### New Lab supplies consisting of resistors, inductors, power supplies, etc in the Project room  
-Components used in constructing basic circuits and testing basic EE principles.
+### New lab supplies consisting of resistors, inductors, power supplies, etc. in the project room  
+
+Description: components used in constructing basic circuits and testing basic EE principles.
 
 * Quantity: 20
 * Total Price: $1000
@@ -41,7 +44,8 @@ Components used in constructing basic circuits and testing basic EE principles.
 * Estimated number of students impacted: ~50
 
 ### New Chairs in the Project room
-Ergonomic furniture consisting of 6 office chairs and 4 lab bench chairs
+
+Description: Ergonomic furniture consisting of 6 office chairs and 4 lab bench chairs
 
 * Quantity: 10
 * Total Price: $1500 
@@ -49,7 +53,8 @@ Ergonomic furniture consisting of 6 office chairs and 4 lab bench chairs
 * Estimated number of students impacted: ~50
 
 ### Anti-static Workbench in the Project room
-A work bench with capabilities to protect components from electrostatic discharge.
+
+Description: A work bench constructed to protect components from electrostatic discharge.
 	
 * Quantity: 1
 * Total Price: $1500
@@ -57,7 +62,8 @@ A work bench with capabilities to protect components from electrostatic discharg
 * Estimated number of students impacted: ~30
 
 ### Computers in the Project Room
-Desktop computers with included monitors
+
+Description: Desktop computers with included monitors
 	
 * Quantity: 2
 * Total Price: $1200
@@ -65,7 +71,8 @@ Desktop computers with included monitors
 * Estimated number of students impacted: ~30 
 
 ### Anti-static Mats in the Project Room
-An antistatic floor mat or ground mat is one of a number of antistatic devices designed to help eliminate static electricity.
+
+Description: An antistatic floor mat or ground mat is one of a number of antistatic devices designed to help eliminate static electricity.
 
 * Quantity: 3
 * Total Price: $240
@@ -73,7 +80,8 @@ An antistatic floor mat or ground mat is one of a number of antistatic devices d
 * Estimated number of students impacted: ~50 
 
 ### DIY Kits consisting of Arduinos & Shields, Raspberry Pi, XBee in the Project Room
-A kit consisting of components used by students to test popular embedded hardware platforms for project use.
+
+Description: A kit consisting of components used by students to test popular embedded hardware platforms for project use.
 
 * Quantity: 3
 * Total Price: $1000
