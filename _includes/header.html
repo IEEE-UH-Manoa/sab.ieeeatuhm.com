@@ -2,13 +2,13 @@
 
       <div class="masthead">
         <ul class="nav nav-pills pull-right">
-          {% if page.section == "home" %}<li class="active">{% else %}<li>{% endif %}<a href="{{"/" |preprend: site.url }}">Home</a></li>
-          {% if page.section == "news" %}<li class="active">{% else %}<li>{% endif %}<a href="{{"/news/" |preprend: site.baseurl }}">News</a></li>
-          {% if page.section == "contact" %}<li class="active">{% else %}<li>{% endif %}<a href="{{"/contact/" |preprend: site.baseurl }}">Contact</a></li>
-          {% if page.section == "officers" %}<li class="active">{% else %}<li>{% endif %}<a href="{{ "/officers/"| prepend: site.baseurl }}">Officers</a></li>
-          {% if page.section == "minutes" %}<li class="active">{% else %}<li>{% endif %}<a href="{{"/minutes/" |preprend: site.baseurl }}">Minutes</a></li>
-          {% if page.section == "archive" %}<li class="active">{% else %}<li>{% endif %}<a href="{{"/archive/" |preprend: site.baseurl }}">Archive</a></li>
-          {% if page.section == "about" %}<li class="active">{% else %}<li>{% endif %}<a href="{{"/about/" |preprend: site.baseurl }}">About</a></li>
+          {% if page.section == "home" %}<li class="active">{% else %}<li>{% endif %}<a href="{{"/" | preprend: site.baseurl }}">Home</a></li>
+          {% if page.section == "news" %}<li class="active">{% else %}<li>{% endif %}<a href="{{"news/" | preprend: site.baseurl }}">News</a></li>
+          {% if page.section == "contact" %}<li class="active">{% else %}<li>{% endif %}<a href="{{"contact/" | preprend: site.baseurl }}">Contact</a></li>
+          {% if page.section == "officers" %}<li class="active">{% else %}<li>{% endif %}<a href="{{ "officers/"| prepend: site.baseurl }}">Officers</a></li>
+          {% if page.section == "minutes" %}<li class="active">{% else %}<li>{% endif %}<a href="{{"minutes/" | preprend: site.baseurl }}">Minutes</a></li>
+          {% if page.section == "archive" %}<li class="active">{% else %}<li>{% endif %}<a href="{{"archive/" | preprend: site.baseurl }}">Archive</a></li>
+          {% if page.section == "about" %}<li class="active">{% else %}<li>{% endif %}<a href="{{"about/" | preprend: site.baseurl }}">About</a></li>
         </ul>
         <h5 class="muted">Electrical Engineering <br/>Student Advisory Board<br /></h5>
       </div>
