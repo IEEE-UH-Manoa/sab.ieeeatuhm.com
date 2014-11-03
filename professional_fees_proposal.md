@@ -1,4 +1,4 @@
-# Student Advisory Board Proposal for Professional Fee Spending in FY 2015
+# EE Student Advisory Board Proposal for Professional Fee Spending in FY 2015
 
 #### Produced by
 
@@ -18,7 +18,7 @@
 
 -----
 
-## New items requested by The Student Advisory Board
+## New items requested by The EE Student Advisory Board
 Prices and quantities below are estimates of the items the SAB wishes for Professional Fees to be spent on. All the items requested are for supplying the new project room with new items.
 
 ### Reflow Oven in the Project Room
