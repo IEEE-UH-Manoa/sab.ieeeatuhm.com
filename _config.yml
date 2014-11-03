@@ -4,8 +4,6 @@ email: uheesab@gmail.com
 
 baseurl: ""
 url: "http://www-ee.eng.hawaii.edu/~eesab/" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
-# github_username:  jekyll
 
 # Build settings
 markdown: kramdown
