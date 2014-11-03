@@ -1,3 +1,9 @@
+---
+layout: post
+title:  SAB Proposal for Professional Fee Spending FY 2015
+date:   2014-11-03
+categories: news
+---
 # EE Student Advisory Board Proposal for Professional Fee Spending in FY 2015
 
 #### Produced by
