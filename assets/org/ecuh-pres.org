@@ -21,12 +21,15 @@
 
 * What is the SAB?
 
-- A student run committee created to fairly represent the electrical engineering student body
+- A student run committee created to represent the electrical engineering student body
 
 
 ** How we got started
 
-kryptonite dirty bomb backfired and produced ethical students (who knew)
+- Created in 2001 under Dr. Anthony Kuh (EE Department Chair at the time) 
+- To get student feedback required by ABET
+- Made an initial presentation to the Industrial Advisory Board (IAB)
+- Many of the first SAB recommendations were implemented and carry on to this day
 
 ** Our commitment to student body
 
@@ -34,7 +37,7 @@ rock hard, take names
 
 * Great things we've done
 
-** Custom EE Tracks
+** Introduction of Custom EE Tracks
 
 Electrical Enginering students are now allowed to create and propose custom cirriculumn tracks. 
 
@@ -42,7 +45,7 @@ Electrical Enginering students are now allowed to create and propose custom cirr
 
 Those are no longer required for EE students. 
 
-** Student Project Laboratory
+** Student Project Lab (Holmes Hall 450
 
 For the first time, electrical engineering students will have access to a dedicated student project lab.
 
