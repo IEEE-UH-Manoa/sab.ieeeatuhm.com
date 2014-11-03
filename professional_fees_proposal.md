@@ -1,4 +1,17 @@
-# Student Proposal for Professional Fee Spending in FY 2015
+# Student Advisory Board Proposal for Professional Fee Spending in FY 2015
+
+#### Produced by
+
+- Kaleo Norman, Chair
+- Bronson Edralin, Vice-Chair
+- Christian Liwanag, SAB Fees Representative
+- Felix Joseph, Webmaster
+- Colene Pekelo, Board
+- Trevor Alexander, Board
+- Andy Pham, Board
+- Kenny Luong, Board
+
+-----
 
 ## New items requested by The Students Advisory Board
 Prices and quantities below are estimates of the items the SAB wishes for Professional Fees to be spent on. All the items requested are for supplying the new project room with new items.
