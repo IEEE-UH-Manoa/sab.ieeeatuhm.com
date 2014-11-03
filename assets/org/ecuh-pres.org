@@ -28,8 +28,8 @@
 ** How we got started
 
 - Created in 2001 under Dr. Anthony Kuh (EE Department Chair at the time) 
-- To get student feedback required by ABET
-- Made an initial presentation to the Industrial Advisory Board (IAB)
+- To get student feedback required for ABET accreditation
+- Made an initial presentation to Industry Advisory Board (IAB)
 - Many of the first SAB recommendations were implemented and carry on to this day
 
 ** Our commitment to student body
@@ -46,17 +46,27 @@
 - A student along with a faculty member may propose a new track.
 - A response to the EE SAB comment: "The track system is too restrictive and not flexible."
 
-** CE270 and ME311 No Longer Required 
+** Engineering Breadth Expanded
 
 - Initially brought up in 2001 by the first SAB committee
 - CE270 and ME311 are longer required for EE students. 
 - Engineering Breadth can be satisfied by CE270, ME311, a CE, ME, OE, or BE course that is at the 300 level or higher.
 
-** Student Project Lab (Holmes Hall 450)
+** Payout of surplus fee monies
+
+- What did SAB do last year to make this better?
+
+** EE Student Project Lab (Holmes Hall 450)
 
 - Proposed, planned and worked on by the 2013-2014 EE SAB
 - Realized this year by 2014-2015 EE SAB 
 - EE students now have access to a dedicated student project lab
+
+** Open Letter to Dean
+
+- [[http://www.kaleo.org/news/students-lose-stipends-to-financial-aid/article_d2127484-49bb-11e4-806c-001a4bcf6878.html?mode=print][Response to Financial Aid Office stipend policy]]
+- Potentially affects all students working for the College
+- link to page
 
 * Things we offer future members
 
