@@ -28,8 +28,8 @@
 ** How we got started
 
 - Created in 2001 under Dr. Anthony Kuh (EE Department Chair at the time) 
-- To get student feedback required by ABET
-- Made an initial presentation to the Industrial Advisory Board (IAB)
+- To get student feedback required for ABET accreditation
+- Made an initial presentation to Industry Advisory Board (IAB)
 - Many of the first SAB recommendations were implemented and carry on to this day
 
 ** Our commitment to student body
@@ -42,19 +42,29 @@
 
 ** Introduction of Custom EE Tracks
 
-- Electrical Enginering students are now allowed to create and propose custom cirriculumn tracks. 
-- This gives students 
+- Electrical Enginering students are now allowed to create and propose custom curriculum tracks
+- This gives students @@@@@@@@@@@@
 
-** CE270 and ME311 No Longer Required 
+** Engineering Breadth Expanded
 
-- Initially brought up in 2001 by the first SAB committee
-- CE270 and ME311 are longer required for EE students. 
+- Initially raised in 2001 by the first SAB committee
+- CE270 and ME311 no longer required for EE students
 
-** Student Project Lab (Holmes Hall 450)
+** Payout of surplus fee monies
+
+- What did SAB do last year to make this better?
+
+** EE Student Project Lab (Holmes Hall 450)
 
 - Proposed by the 2013-2014 EE SAB
-- For the first time, electrical engineering students will have access to a dedicated student project lab.
-- Holmes Hall 450 is now open for student signups
+- For the first time, electrical engineering students have access to dedicated student project lab
+- Holmes Hall 450 now open for student signups
+
+** Open Letter to Dean
+
+- [[http://www.kaleo.org/news/students-lose-stipends-to-financial-aid/article_d2127484-49bb-11e4-806c-001a4bcf6878.html?mode=print][Response to Financial Aid Office stipend policy]]
+- Potentially affects all students working for the College
+- link to page
 
 * Things we offer future members
 
