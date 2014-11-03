@@ -30,27 +30,27 @@
 - Created in 2001 under Dr. Anthony Kuh (EE Department Chair at the time) 
 - To get student feedback required for ABET accreditation
 - Made an initial presentation to Industry Advisory Board (IAB)
-- Many of the first SAB recommendations were implemented and carry on to this day
 
 ** Our commitment to student body
 
 - We represent the needs and concerns of the EE student body
-- We provide a safe venue for students to bring up concerns and comments
-- We strive to make sure that EE students are receiving the most up to date education
+- We provide a safe venue for students to raise concerns and comments
+- We strive to make sure that EE students are receiving the most current education
 
 * Great things we've done
 
 ** Introduction of Custom EE Tracks
 
-- EE students are now allowed to create and propose custom cirriculumn tracks. 
-- A student along with a faculty member may propose a new track.
-- A response to the EE SAB comment: "The track system is too restrictive and not flexible."
+- Electrical Enginering students are now allowed to create and propose custom curriculum tracks
+- Allows students to stay on top of latest shifts in industry and technology
+- Increases interdisciplinary connections
 
 ** Engineering Breadth Expanded
+# A response to the EE SAB comment: “The track system is too restrictive and not flexible.”
 
-- Initially brought up in 2001 by the first SAB committee
-- CE270 and ME311 are longer required for EE students. 
-- Engineering Breadth can be satisfied by CE270, ME311, a CE, ME, OE, or BE course that is at the 300 level or higher.
+- Initially raised in 2001 by the first SAB committee
+- Limited choices of CE270 and ME311 expanded to all 300+ CEE/ME/OE/BE
+- 300+ phys/bio science courses also available for proposal
 
 ** Payout of surplus fee monies
 
@@ -58,9 +58,9 @@
 
 ** EE Student Project Lab (Holmes Hall 450)
 
-- Proposed, planned and worked on by the 2013-2014 EE SAB
-- Realized this year by 2014-2015 EE SAB 
-- EE students now have access to a dedicated student project lab
+- Proposed by the 2013-2014 EE SAB
+- For the first time, electrical engineering students have access to dedicated student project lab
+- Holmes Hall 450 now open for student signups
 
 ** Open Letter to Dean
 
@@ -72,28 +72,30 @@
 
 ** Leadership
 
-- An opportunity to practice leadership skills
-- Address a specific a student concern
-- Help drive new and positive changes for students
+- Practice leadership skills
+- Address real student concerns
+- Make lasting changes to student environment
 
 ** Community Involvement
 
 - Help to maintain our community
 - Created by students, for students
+- Reach out to faculty and administration
 
 ** Resume Building
 
-- Can define exactly what you contributed and how that affected students`
+- SAB volunteer work is tangible and substantive
 - Shows employers initiative and involvement
-- An engineering related extra-cirricular activity
+- An engineering related extra-curricular activity
 
 * Current Goals
 
 - Improve our current website to be more transparent 
 - Promote the EE SAB and let students know they have a venue for concerns
-- Become a fully self-sustaining committee to continue to support students
+- Become a fully self-sustaining to continue to support students
 
 * Contact Us
 
 - website: http://www-ee.eng.hawaii.edu/~eesab/
+- github: https://github.com/IEEE-UH-Manoa/eesab-website/
 - email: uheesab@gmail.com
