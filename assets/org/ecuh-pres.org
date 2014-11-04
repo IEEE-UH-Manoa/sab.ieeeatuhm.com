@@ -13,7 +13,7 @@
 #+KEYWORDS:
 #+LANGUAGE: en
 #+SELECT_TAGS: export
-#+REVEAL_THEME: beige
+#+REVEAL_THEME: moon
 #+REVEAL_TRANS: fade
 #+REVEAL_MATHJAX: true
 # OPTIONS: org-reveal-mathjax:t
