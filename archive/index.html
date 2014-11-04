@@ -11,6 +11,16 @@ section: archive
         to be as transparent as possible.
         </p>
       </div>
+      
+      <hr>
+      <h4>2014</h4>
+      <ul class="unstyled">
+        {% for post in site.posts %} 
+        	{% if post.date | date: "%Y" = "2014" %}  
+              <li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><small> {{ post.date | date: "%b %-d, %Y" }} </small></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
 
       <hr>
       <h4>2007</h4>
