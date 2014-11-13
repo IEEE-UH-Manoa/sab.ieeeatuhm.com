@@ -87,13 +87,13 @@
 
 # Action Items<a id="sec-11" name="sec-11"></a>
 
--   [ ] Colene to follow up on remaining officer photos
+-   [x] Colene to follow up on remaining officer photos
 -   [ ] Bronson to talk to June about upgrading the server
 -   [ ] Look through IAB minutes in the next meeting
--   [ ] Trevor to make slides for ECUH meeting
--   [ ] Ken to take care of the information fliers/posters
--   [ ] Trevor to make presentations fo the ECUH Meeting
--   [ ] Professional Fees wish list to be updated
+-   [x] Trevor to make slides for ECUH meeting
+-   [x] Ken to take care of the information fliers/posters
+-   [x] Trevor to make presentations fo the ECUH Meeting
+-   [x] Professional Fees wish list to be updated
 -   [ ] Submit a paragraph about yourself and some form of resume (might be optional) on website
 
 # 10/23/14 Minutes Approved <span class="timestamp-wrapper"><span class="timestamp">&lt;2014-10-29 Wed 17:35&gt;</span></span><a id="sec-12" name="sec-12"></a>
