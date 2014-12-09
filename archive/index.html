@@ -1,46 +1,7 @@
-
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>Template &middot; Bootstrap</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-
-    <!-- Le styles -->
-    <link href="../assets/css/bootstrap.css" rel="stylesheet">
-    <link href="../assets/css/custom.css" rel="stylesheet">
-    <link href="../assets/css/bootstrap-responsive.css" rel="stylesheet">
-
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-      <script src="../assets/js/html5shiv.js"></script>
-    <![endif]-->
-
-    <!-- Fav and touch icons -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
-      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
-                    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
-                                   <link rel="shortcut icon" href="../assets/ico/favicon.png">
-  </head>
-
-  <body>
-
-    <div class="container-narrow">
-
-      <div class="masthead">
-        <ul class="nav nav-pills pull-right">
-          <li><a href="../">Home</a></li>
-          <li><a href="../news/">News</a></li>
-          <li><a href="../about">About</a></li>
-          <li><a href="../contact/">Contact</a></li>
-          <li><a href="../officers/">Officers</a></li>
-          <li class="active"><a href=".">Archive</a></li>
-        </ul>
-        <h4 class="muted">Electrical Engineering <br />Student Advisory Board<br /></h4>
-      </div>
+---
+layout: default
+section: archive
+---
 
       <hr>
       <div class="jumbotron">
@@ -50,6 +11,16 @@
         to be as transparent as possible.
         </p>
       </div>
+      
+      <hr>
+      <h4>2014</h4>
+      <ul class="unstyled">
+        {% for post in site.posts %} 
+        	{% if post.date | date: "%Y" = "2014" %}  
+              <li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><small> {{ post.date | date: "%b %-d, %Y" }} </small></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
 
       <hr>
       <h4>2007</h4>
@@ -75,7 +46,7 @@
         - 10/9/02</li>
         <li><a href="2002/2002-Survey_Questions.doc">Student Survey Questions</a> - 10/9/02</li>
       </ul>
-      <h4>2001 (<a href="/webpage">webpage</a>)</h4>
+      <h4>2001 (<a href="/old">webpage</a>)</h4>
         
       <ul class="unstyled">
         <li><a href="2001/SAB_2001.pdf">Official Comments and 
@@ -86,46 +57,3 @@
             11/21/01</a> </li>
           <li><a href="2001/ABET.ppt">EE IAB - Evaluation and Assessment of EE Program 10/4/01</a><a></a> </li>
       <ul>
-
-
-      <!-- Leave this here so that the pages are consistant -->
-      <div class="row-fluid marketing">
-        <div class="span6">
-            <h4>Contact</h4>
-            <p>
-            uhmeesab@gmail.com
-            </p>
-        </div>
-
-        <div class="span6">
-        </div>
-      </div>
-
-      <hr>
-
-      <div class="footer">
-        <p>&copy; University of Hawaii, College of Engineering 2013</p>
-      </div>
-
-    </div> <!-- /container -->
-
-    <!-- Le javascript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="../assets/js/jquery.js"></script>
-    <script src="../assets/js/bootstrap-transition.js"></script>
-    <script src="../assets/js/bootstrap-alert.js"></script>
-    <script src="../assets/js/bootstrap-modal.js"></script>
-    <script src="../assets/js/bootstrap-dropdown.js"></script>
-    <script src="../assets/js/bootstrap-scrollspy.js"></script>
-    <script src="../assets/js/bootstrap-tab.js"></script>
-    <script src="../assets/js/bootstrap-tooltip.js"></script>
-    <script src="../assets/js/bootstrap-popover.js"></script>
-    <script src="../assets/js/bootstrap-button.js"></script>
-    <script src="../assets/js/bootstrap-collapse.js"></script>
-    <script src="../assets/js/bootstrap-carousel.js"></script>
-    <script src="../assets/js/bootstrap-typeahead.js"></script>
-
-  </body>
-</html>
-
