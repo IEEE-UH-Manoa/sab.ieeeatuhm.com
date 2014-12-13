@@ -6,26 +6,42 @@ permalink: /posts/stipendreply
 categories: news
 ---
 
-Peter Crouch, the dean of the UH College of Engineering, delivered a reply to
-our [previous letter]({{ site.baseurl }}/posts/stipendreply) last week. You can
-view the [original PDF](oncefelixuploadsit) as scanned. Here's a quick summary.
+Peter Crouch, the dean of the College of Engineering, delivered an excellent reply to 
+our [previous letter]({{ site.baseurl }}/posts/stipendreply) last week. We thank the Dean's Office and the College of Engineering for providing an in-depth response to our concerns.
 
-## Letter summary
+You can
+view the [original PDF](oncefelixuploadsit) as scanned. Here's a quick summary of the high points.
+
+## Summary
 
 ### Main view ###
 
-### 'Compensation' v. 'award' ###
+The Dean's main view is in line with UH policy:
+
+> All UH Manoa students receiving financial [aid] are obligated to follow rules provided by the University in the statements relating to financial aid: http://www.hawaii.edu/fas/policies/1415policy.php and http://www.hawaii.edu/fas/downloads/how_scholarships_affect_Financial_aid.pdf.
+
+This is not unexpected. University policies, especially as they derive from federal law (for student aid) are going to be the last word on the issue. However, there are details that matter, and the Dean also gave us his views on them.
+
+### 'Employment' vs. 'support' ###
+
+The Dean emphasized the difference between student employment positions which the College offers, and support provided to students, which may go to curriculum-related expenses or be distributed as a stipend. Support for curriculum-related expenses can often be resolved between the College, the student, and the Financial Aid office, by increasing the cost of the program by a corresponding amount.
 
 ### Use of stipend funding ###
 
+Stipends are awarded to students for a variety of reasons, and their use has grown. The Dean named two in his letter:
+
+- Student project support
+- Service roles for the College such as recruitment, etc.
+
+The Dean drew a clear line between these uses of stipends and student employment. Stipends are not intended to compensate students for tasks, and administrators are instructed not to use them as such.
+
 ## Our advice ##
 
-Regardless of whether or not you agree with the Dean's interpretation (and by
-extension, the College's), the conclusion is the same: once you take on work on
-a stipend basis, the financial adjustment mechanisms will automatically subtract
-that amount from their disbursement calculations.
+Regardless of whether or not you feel the Dean's view (and by
+extension, the College's) reflects your experience, the bottom line for students is the same: if you take on work on
+a stipend basis, that amount may be subtracted from your financial aid disbursement.
 
-If you are unsure of your remaining financial aid allocations or burden, or if
+If you are being paid for labor for the College and are unsure of your remaining financial aid allocations or burden, or if
 you know that a stipend will push you over the limit set for you, refuse to
 accept stipends for your work, and ask to be paid as a student hire.
 
