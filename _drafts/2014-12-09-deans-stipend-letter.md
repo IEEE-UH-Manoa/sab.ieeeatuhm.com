@@ -41,9 +41,9 @@ Regardless of whether or not you feel the Dean's view (and by
 extension, the College's) reflects your experience, the bottom line for students is the same: if you take on work on
 a stipend basis, that amount may be subtracted from your financial aid disbursement.
 
-If you are being paid for labor for the College and are unsure of your remaining financial aid allocations or burden, or if
+**If you are being paid for labor for the College and are unsure of your remaining financial aid allocations or burden, or if
 you know that a stipend will push you over the limit set for you, refuse to
-accept stipends for your work, and ask to be paid as a student hire.
+accept stipends for your work, and ask to be paid as a student hire.**
 
 If you have questions or comments, please contact us either by
 [email](uheesab@gmail.com) or through our
