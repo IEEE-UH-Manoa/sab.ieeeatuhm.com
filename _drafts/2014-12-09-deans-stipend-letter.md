@@ -10,7 +10,7 @@ Peter Crouch, the dean of the College of Engineering, delivered an excellent rep
 our [previous letter]({{ site.baseurl }}/posts/stipendreply) last week. We thank the Dean's Office and the College of Engineering for providing an in-depth response to our concerns.
 
 You can
-view the [original PDF](oncefelixuploadsit) as scanned. Here's a quick summary of the high points.
+view the [original PDF]({{ site.baseurl }}/archive/2014/deanletter.pdf) as scanned. Here's a quick summary of the high points.
 
 ## Summary
 
