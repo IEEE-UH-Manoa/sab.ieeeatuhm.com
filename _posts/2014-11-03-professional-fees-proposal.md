@@ -3,6 +3,7 @@ layout: post
 title:  SAB Proposal for Professional Fee Spending FY 2015
 date:   2014-11-03
 categories: news
+summary: The Electrical Engineering Student Advisory Board (EESAB) submitted a list of desired student equipment and materials for the College of Engineering.  They have provided a list of the desired items as well as the estimated costs of those items.
 ---
 # EE Student Advisory Board Proposal for Professional Fee Spending in FY 2015
 
