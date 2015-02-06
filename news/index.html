@@ -16,9 +16,9 @@ section: news
           {% for post in site.posts %} 
           	{% if post.categories contains "news" %}  
               <h3>
-                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><small> {{ post.date | date: "%b %-d, %Y" }} </small>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br><small> {{ post.date | date: "%b %-d, %Y" }} </small>
               </h3>
-               {{ post.content | truncatewords:75}}
+               <small>{{ post.summary }}</small>
                <br>
                ----------------------------------------
                <br>
