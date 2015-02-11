@@ -51,7 +51,7 @@
 -   Bronson: Students who have filled out the form and have paid their student forms are eligible to get a Matlab license
 -   Kenny, Trevor, Felix: The process of how the license is handed out should be explained on the form
 -   Bronson: Should be available to both students that have not taken the classes that require Matlab as well as the students that are currently taking said classes
--   Felix, Bronson: Liam to approve the time frame for distributing licenses
+-   Felix, Bronson: Liane to approve the time frame for distributing licenses
 -   Bronson: Tuition to pay for Matlab
 -   Trevor: Summary of things that need to be addressed 
     -   1.Department field unnecessary
@@ -98,7 +98,7 @@
 # Action Items<a id="sec-11" name="sec-11"></a>
 
 -   [ ] Kaleo and Christian to work on the budget list
--   [ ] Kaleo to either email Gale(?) or visit in person at Holmes 246
+-   [ ] Kaleo to either email Gail or visit in person at Holmes 246
 -   [ ] Matlab form needs to be revised
 -   [ ] Matlab form revisions 2 and 3 to be posted to Github
 -   [ ] Post the CNC Mill policy paper onto the website
