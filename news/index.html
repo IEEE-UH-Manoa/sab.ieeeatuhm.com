@@ -15,12 +15,12 @@ section: news
 
           {% for post in site.posts %} 
           	{% if post.categories contains "news" %}  
-              <h3>
+              <h3 style="margin: -00px 0px;">
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br><small> {{ post.date | date: "%b %-d, %Y" }} </small>
               </h3>
                <small>{{ post.summary }}</small>
                <br>
-               ----------------------------------------
+               <hr style="margin: 20px 0px 0px 0px;">
                <br>
             {% endif %}
           {% endfor %}
