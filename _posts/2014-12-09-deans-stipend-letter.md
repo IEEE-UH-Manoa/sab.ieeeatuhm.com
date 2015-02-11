@@ -4,6 +4,7 @@ title:  Dean Crouch Replies to Stipend Issue
 date:   2014-12-08
 permalink: /posts/stipendreply
 categories: news
+summary: Peter Crouch, the dean of the College of Engineering, delivered an excellent reply to our previous letter last week.  We thank the Dean's Office and the College of Engineering for providing an in-depth response to our concerns.
 ---
 
 Peter Crouch, the dean of the College of Engineering, delivered an excellent reply to 

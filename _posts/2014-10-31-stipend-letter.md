@@ -4,6 +4,7 @@ title:  SAB Stipend Letter to the Dean
 date:   2014-10-31
 permalink: /posts/stipendletter
 categories: news
+summary: On October 3rd, an article was published in the Ka Leo regarding a policy that concerns students receiving stipends and financial aid. This issue pertains to receiving aid over students award limits, and thus having to pay the school back any difference in the provided aid and the limit on said aid.
 ---
 ## Dear Dean Crouch:
 
