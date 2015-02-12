@@ -98,13 +98,13 @@
 # Action Items<a id="sec-11" name="sec-11"></a>
 
 -   [ ] Kaleo and Christian to work on the budget list
--   [ ] Kaleo to either email Gail or visit in person at Holmes 246
--   [ ] Matlab form needs to be revised
--   [ ] Matlab form revisions 2 and 3 to be posted to Github
+-   [X] Kaleo to either email Gail or visit in person at Holmes 246
+-   [X] Matlab form needs to be revised
+-   [X] Matlab form revisions 2 and 3 to be posted to Github
 -   [ ] Post the CNC Mill policy paper onto the website
 -   [ ] Ask Dr. Shiroma to make the project lab room public
 -   [ ] Felix to research tutoring options
--   [ ] Felix to email Jody for the report
--   [ ] Kenny to talk to June to upgrade the server
+-   [X] Felix to email Dr. Shiroma, to email Jodi for the report
+-   [X] Kenny to talk to June to upgrade the server
 
 # Meeting Adjourned <span class="timestamp-wrapper"><span class="timestamp">&lt;2015-02-04 Wed 18:24&gt;</span></span><a id="sec-12" name="sec-12"></a>
