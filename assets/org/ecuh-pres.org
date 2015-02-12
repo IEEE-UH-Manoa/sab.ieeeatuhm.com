@@ -1,0 +1,108 @@
+#+LAST_MOBILE_CHANGE: 2014-10-01 16:40:07
+#+TITLE: ECUH Info Session
+#+DATE: 2014-11-03
+#+AUTHOR: UH EE Student Advisory Board
+#+EMAIL: uh-manoa-ee-sab-grp@hawaii.edu
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:t p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:1 todo:t |:t
+#+CREATOR: Emacs 24.3.1 (Org mode 8.2.7c)
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+REVEAL_THEME: moon
+#+REVEAL_TRANS: fade
+#+REVEAL_MATHJAX: true
+# OPTIONS: org-reveal-mathjax:t
+# OPTIONS: reveal_controls:nil
+
+* What is the SAB?
+
+- An independent and fully student run committee 
+- Represents the electrical engineering student body
+- Supported by IEEE Student Branch at UH Manoa
+
+** How we got started
+
+- Created in 2001 under Dr. Anthony Kuh (EE Department Chair at the time) 
+
+
+Initial duties:
+
+- Provide student feedback required for ABET accreditation
+- Present findings to Industry Advisory Board (IAB)
+
+** Commitment to student body
+
+- We represent the needs and concerns of the EE student body
+- We provide a safe venue for students to raise concerns and comments
+- We strive to make sure that EE students are receiving the most current education
+
+* Accomplishments
+
+** Introduction of Custom EE Tracks
+
+- Electrical Enginering students are now allowed to create and propose custom curriculum tracks
+- Allows students to stay on top of latest shifts in industry and technology
+- Increases interdisciplinary connections
+
+** Engineering Breadth Expanded
+# A response to the EE SAB comment: “The track system is too restrictive and not flexible.”
+
+- Initially raised in 2001 by the first SAB committee
+- Limited choices (CE270/ME311) expanded to all 300+ CEE/ME/OE/BE classes
+- 300+ phys/bio science courses also available for proposal
+
+** Payout of surplus fee monies
+
+- Worked in alliance with faculty to make use of surplus student fees (2012-2013)
+- Invested in IEEE student room, improvements to EE student services in Holmes Hall
+- Ordered industrial equipment otherwise unavailable to students
+
+** EE Student Project Lab (Holmes Hall 450)
+
+- Proposed by the 2013-2014 EE SAB
+- Electrical engineering students have access to a dedicated student project lab (first time)
+- Holmes Hall 450 now open for student signups
+
+** Open Letter to Dean
+
+- [[http://www.kaleo.org/news/students-lose-stipends-to-financial-aid/article_d2127484-49bb-11e4-806c-001a4bcf6878.html?mode=print][Response to Financial Aid Office stipend policy]]
+- Potentially affects all students in stipend positions with the College
+- Read about it here: http://www-ee.eng.hawaii.edu/~eesab/
+
+* Membership opportunities
+** Leadership
+
+- Practice leadership skills
+- Address real student concerns
+- Make lasting changes to student environment
+
+# http://manoa.hawaii.edu/ombuds/ closed in 2009
+
+** Community Involvement
+
+- Helps maintain our community
+- Created by students, for students
+- Reach out to faculty and administration
+
+** Resume Building
+
+- SAB volunteer work is tangible and substantive
+- Shows employers initiative and involvement
+- A real engineering related extra-curricular activity
+
+* Current Goals
+
+- Improve our current website for more transparency
+- Promote EE SAB; let students know they have a venue for concerns
+- Become fully self-sustaining to continue to support students
+
+* Contact Us
+
+- website: http://www-ee.eng.hawaii.edu/~eesab/
+- github: https://github.com/IEEE-UH-Manoa/eesab-website/
+- email: uheesab@gmail.com
