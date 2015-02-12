@@ -1,5 +1,7 @@
 Process #1
 
+In order to be eligible, you have to pay professional fees
+
 Priority given in this order: 
 1) Underclassmen
 2) EE Classes Not/Currently Taking (EE213, EE315, EE342, EE343, EE351, EE415, EE442, EE471)
