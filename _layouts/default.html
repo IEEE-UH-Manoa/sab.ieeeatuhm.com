@@ -17,6 +17,15 @@
   <body>
    <div class="container-narrow">
 {% include header.html %}
+      <hr>
+      <div class="jumbotron">
+        <h2>{{page.title}}</h2>
+        <p>
+        {{page.description}}
+        </p>
+      </div>
+      <hr>
+
         {{ content }}
 {% include footer.html %}
     </div> <!-- /container -->
