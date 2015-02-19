@@ -1,3 +1,9 @@
+---
+layout: post
+title:  February 2nd, 2015 Minutes
+date:   2015-02-04
+categories: news
+---
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
