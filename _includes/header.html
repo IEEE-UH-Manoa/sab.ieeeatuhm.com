@@ -1,16 +1,17 @@
 <header class="site-header">
 
       <div class="masthead">
-        <ul class="nav nav-pills pull-right">
+        <ul class="nav nav-pills pull-right"  style="margin: 20px 0 0 0;">
           {% if page.section == "home" %}<li class="active">{% else %}<li>{% endif %}<a href="{{ "/" | prepend: site.baseurl }}">Home</a></li>
           {% if page.section == "news" %}<li class="active">{% else %}<li>{% endif %}<a href="{{ "/news/" | prepend: site.baseurl }}">News</a></li>
           {% if page.section == "contact" %}<li class="active">{% else %}<li>{% endif %}<a href="{{ "/contact/" | prepend: site.baseurl }}">Contact</a></li>
           {% if page.section == "officers" %}<li class="active">{% else %}<li>{% endif %}<a href="{{ "/officers/" | prepend: site.baseurl }}">Officers</a></li>
           {% if page.section == "minutes" %}<li class="active">{% else %}<li>{% endif %}<a href="{{ "/minutes/" | prepend: site.baseurl }}">Minutes</a></li>
-          {% if page.section == "archive" %}<li class="active">{% else %}<li>{% endif %}<a href="{{ "/archive/" | prepend: site.baseurl }}">Archive</a></li>
+          {% if page.section == "resources" %}<li class="active">{% else %}<li>{% endif %}<a href="{{ "/resources/" | prepend: site.baseurl }}">Resources</a></li>
           {% if page.section == "about" %}<li class="active">{% else %}<li>{% endif %}<a href="{{ "/about/" | prepend: site.baseurl }}">About</a></li>
+          {% if page.section == "survey" %}<li class="active">{% else %}<li>{% endif %}<a href="{{ "/survey/" | prepend: site.baseurl }}">Survey</a></li>
         </ul>
-        <h5 class="muted">Electrical Engineering <br/>Student Advisory Board<br /></h5>
+        <img src="/~eesab/assets/EESAB-hori.png">
       </div>
 
 </header>
