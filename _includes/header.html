@@ -11,7 +11,7 @@
           {% if page.section == "about" %}<li class="active">{% else %}<li>{% endif %}<a href="{{ "/about/" | prepend: site.baseurl }}">About</a></li>
           {% if page.section == "survey" %}<li class="active">{% else %}<li>{% endif %}<a href="{{ "/survey/" | prepend: site.baseurl }}">Survey</a></li>
         </ul>
-        <img src="/~eesab/assets/EESAB-hori.png">
+        <img src="{{ "/assets/EESAB-hori.png" | prepend: site.baseurl }}">
       </div>
 
 </header>
