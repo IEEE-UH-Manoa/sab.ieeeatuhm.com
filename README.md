@@ -10,5 +10,5 @@ Goals of this website include:
   * Display current information on the EE SAB
   * Operate as a staging and collaboration point for EE SAB officers
 
-See [the workflow document](workflow.md) for what the proper workflow should be for updating the website.
+See [the workflow document](workflow.md) for what the proper workflow should be for updating the website.  
 See [technical how-to document](assets/docs/technical-how-to.md) for what the proper workflow should be for updating the website.
