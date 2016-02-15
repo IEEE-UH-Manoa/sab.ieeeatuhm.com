@@ -1,6 +1,5 @@
 eesab-website
 =============
-[ ![Codeship Status for IEEE-UH-Manoa/eesab-website](https://codeship.com/projects/edb33760-a086-0132-9842-02e47b219034/status?branch=master)](https://codeship.com/projects/65437)
 
 This repository is the main website for the UH Manoa Electrical Engineering Student Advisory Board (SAB). 
 Goals of this website include:
@@ -10,3 +9,6 @@ Goals of this website include:
   * Display information on how to get involved with the EE SAB 
   * Display current information on the EE SAB
   * Operate as a staging and collaboration point for EE SAB officers
+
+See [the workflow document](workflow.md) for what the proper workflow should be for updating the website.  
+See [technical how-to document](assets/docs/technical-how-to.md) for technical help.
